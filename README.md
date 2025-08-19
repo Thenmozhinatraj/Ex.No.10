@@ -1,7 +1,7 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:19//08/2025
+## Date:19/08/2025
 ## Reg. No.212223060291
 
 ## Aim:
