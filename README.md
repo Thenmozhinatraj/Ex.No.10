@@ -1,6 +1,7 @@
 # **Ex. No. 10: Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns**
 
 **Date:** 04/11/2025
+
 **Reg. No.:** 212223060291
 
 ---
@@ -78,6 +79,29 @@ Different writing tasks (like reports, case studies, or stories) require **diffe
 * Very brief and surface-level content.
 * Lacked numerical data, structure, and region-specific details.
 * Tone was informative but not analytical.
+
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/fae004f9-0c9c-4c78-993e-61d3e946122b" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/14e3f7d3-aa8a-4443-8343-ea3685a455ad" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/ce476887-3eac-4fd1-a37f-6efdbb0fcc1d" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/b06e4d55-5a25-484b-8152-185cce9234ad" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/f63cac53-5afc-445c-8c40-050e5c95656c" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/a0e0534e-48ed-4a81-9d76-a656cfedc835" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/153f3ebe-4d1e-475a-b1e5-912e64894333" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/4d59fb6b-6559-46b8-ba4f-6c3bbd966147" />
 
 ---
 
@@ -244,12 +268,23 @@ Prompt:
 > Include Introduction, Methodology, Statistical Insights, Results, and Conclusion.
 > Use 2025 projections and an academic tone.”
 
-<img width="990" height="548" alt="image" src="https://github.com/user-attachments/assets/d5786875-88fd-42ad-9a17-cc15d3ee5ca0" />
-<img width="978" height="638" alt="image" src="https://github.com/user-attachments/assets/217ca3d5-e6de-42b1-87cb-980f45edbb08" />
-<img width="944" height="680" alt="image" src="https://github.com/user-attachments/assets/7cbd0fde-5955-47fc-8430-0d559fa0f8ef" />
-<img width="962" height="421" alt="image" src="https://github.com/user-attachments/assets/c2139f60-207f-4c62-b503-cdf32f021838" />
-<img width="962" height="498" alt="image" src="https://github.com/user-attachments/assets/6ca3785d-3425-42d4-bc6d-a4d002bc42c3" />
-<img width="999" height="502" alt="image" src="https://github.com/user-attachments/assets/cf90cce6-6b21-43a9-934c-ee39b69e7ecf" />
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/d5786875-88fd-42ad-9a17-cc15d3ee5ca0" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/217ca3d5-e6de-42b1-87cb-980f45edbb08" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/7cbd0fde-5955-47fc-8430-0d559fa0f8ef" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/c2139f60-207f-4c62-b503-cdf32f021838" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/6ca3785d-3425-42d4-bc6d-a4d002bc42c3" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/cf90cce6-6b21-43a9-934c-ee39b69e7ecf" />
 
 
 ---
@@ -262,9 +297,14 @@ Prompt:
 > The protagonist trades away their happiest memories for one hour of peace.
 > Keep it 400 words, melancholic, and visual.”
 
-<img width="963" height="706" alt="image" src="https://github.com/user-attachments/assets/747d2b74-7417-46aa-9f39-f81e97f1e7a8" />
-<img width="985" height="686" alt="image" src="https://github.com/user-attachments/assets/be626c29-ff68-4972-9a8f-ffc3495f320e" />
-<img width="999" height="504" alt="image" src="https://github.com/user-attachments/assets/66fd5cfb-6b13-4760-a3bf-dff0d7e5076b" />
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/747d2b74-7417-46aa-9f39-f81e97f1e7a8" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/be626c29-ff68-4972-9a8f-ffc3495f320e" />
+
+---
+<img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/66fd5cfb-6b13-4760-a3bf-dff0d7e5076b" />
 
 
 ---
